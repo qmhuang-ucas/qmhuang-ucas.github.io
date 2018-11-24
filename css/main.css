@@ -1850,7 +1850,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #24cc45;
+  background: #7f9d79;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3176,4 +3176,7 @@ ul.breadcrumb li+li:last-child {
 }
 .site-subtitle {
   margin-top: 7px;
+}
+.links-of-author-item {
+  width: 100%;
 }
