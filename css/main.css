@@ -1850,7 +1850,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff0063;
+  background: #13ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3160,4 +3160,22 @@ ul.breadcrumb li+li:last-child {
   color: #fc6423;
   border-bottom: none;
   border-bottom: 1px solid #fc6423;
+}
+.content-inner {
+  height: 125px;
+  background-image: url("/images/banner.png");
+  background-size: cover;
+}
+.header-inner {
+  margin: 0 auto;
+  height: 125px;
+}
+.site-title {
+  vertical-align: top;
+  line-height: 29px;
+  font-size: 20px;
+}
+.site-subtitle {
+  margin-top: 10px;
+  font-size: 13px;
 }
