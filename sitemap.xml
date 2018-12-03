@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qmhuang-ucas.github.io/hello-world/</loc>
+    
+    <lastmod>2018-12-03T02:52:39.962Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qmhuang-ucas.github.io/teaching/index.html</loc>
     
     <lastmod>2018-11-28T07:01:38.169Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://qmhuang-ucas.github.io/members/index.html</loc>
     
     <lastmod>2018-11-27T11:25:40.710Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qmhuang-ucas.github.io/hello-world/</loc>
-    
-    <lastmod>2018-11-26T02:09:07.192Z</lastmod>
     
   </url>
   
